@@ -1,0 +1,10 @@
+mkdir exercises
+cd exercises
+>movies.txt
+echo 'Promare' >> movies.txt
+echo 'Redline' >> movies.txt
+echo 'Spiderman: Into the Spiderverse' >> movies.txt
+echo 'Thor: Ragnarok' >> movies.txt
+echo 'Final Fantasy VII: Advent Children' >> movies.txt
+grep 'Deadpool' movies.txt
+echo 'Deadpool' >> movies.txt
